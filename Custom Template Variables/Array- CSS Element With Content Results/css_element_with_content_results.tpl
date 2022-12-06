@@ -73,6 +73,7 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 /**
   Autor: Juan Camilo Arcila Velasquez.
+  Company: Omilac
   Year: 2022
   LinkedIn: https://www.linkedin.com/in/juan-camilo-arcila-vel%C3%A1squez-0515a2241/
 **/
